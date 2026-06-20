@@ -1,0 +1,207 @@
+{
+    "Karnal": {
+      "groundwaterLevel": "Critical",
+      "currentDepth": 15,
+      "recommendations": [
+        {
+          "crop": "Bajra (Pearl Millet)",
+          "profitScore": 78,
+          "waterScore": 92,
+          "inputCost": 8500,
+          "mandiPrice": 2500,
+          "waterRequirement": "Low",
+          "expectedProfit": 32000,
+          "scheme": "Mera Pani Meri Virasat"
+        },
+        {
+          "crop": "Moong (Green Gram)",
+          "profitScore": 72,
+          "waterScore": 88,
+          "inputCost": 7200,
+          "mandiPrice": 7800,
+          "waterRequirement": "Low",
+          "expectedProfit": 28000,
+          "scheme": "PM-KISAN"
+        },
+        {
+          "crop": "Paddy (Rice)",
+          "profitScore": 85,
+          "waterScore": 20,
+          "inputCost": 14000,
+          "mandiPrice": 2300,
+          "waterRequirement": "Very High",
+          "expectedProfit": 38000,
+          "scheme": null
+        }
+      ],
+      "projection": {
+        "years": [2026, 2027, 2028, 2029, 2030, 2031],
+        "currentCrop": [15, 16.2, 17.5, 18.9, 20.4, 22.1],
+        "recommended": [15, 15.3, 15.5, 15.4, 15.2, 15.0]
+      }
+    },
+    "Sangrur": {
+      "groundwaterLevel": "Overexploited",
+      "currentDepth": 22,
+      "recommendations": [
+        {
+          "crop": "Maize",
+          "profitScore": 75,
+          "waterScore": 85,
+          "inputCost": 9000,
+          "mandiPrice": 2200,
+          "waterRequirement": "Medium",
+          "expectedProfit": 30000,
+          "scheme": "Crop Diversification Scheme"
+        },
+        {
+          "crop": "Cotton",
+          "profitScore": 80,
+          "waterScore": 70,
+          "inputCost": 11000,
+          "mandiPrice": 7020,
+          "waterRequirement": "Medium",
+          "expectedProfit": 35000,
+          "scheme": null
+        },
+        {
+          "crop": "Paddy (Rice)",
+          "profitScore": 88,
+          "waterScore": 15,
+          "inputCost": 14500,
+          "mandiPrice": 2300,
+          "waterRequirement": "Very High",
+          "expectedProfit": 40000,
+          "scheme": null
+        }
+      ],
+      "projection": {
+        "years": [2026, 2027, 2028, 2029, 2030, 2031],
+        "currentCrop": [22, 23.8, 25.7, 27.8, 30.1, 32.5],
+        "recommended": [22, 22.4, 22.6, 22.5, 22.3, 22.0]
+      }
+    },
+    "Jaipur": {
+      "groundwaterLevel": "Semi-Critical",
+      "currentDepth": 18,
+      "recommendations": [
+        {
+          "crop": "Mustard",
+          "profitScore": 82,
+          "waterScore": 88,
+          "inputCost": 7500,
+          "mandiPrice": 5650,
+          "waterRequirement": "Low",
+          "expectedProfit": 34000,
+          "scheme": "Rajasthan Crop Diversification"
+        },
+        {
+          "crop": "Guar (Cluster Bean)",
+          "profitScore": 70,
+          "waterScore": 95,
+          "inputCost": 6000,
+          "mandiPrice": 6200,
+          "waterRequirement": "Very Low",
+          "expectedProfit": 26000,
+          "scheme": null
+        },
+        {
+          "crop": "Wheat",
+          "profitScore": 84,
+          "waterScore": 40,
+          "inputCost": 12000,
+          "mandiPrice": 2275,
+          "waterRequirement": "High",
+          "expectedProfit": 36000,
+          "scheme": null
+        }
+      ],
+      "projection": {
+        "years": [2026, 2027, 2028, 2029, 2030, 2031],
+        "currentCrop": [18, 19.1, 20.3, 21.6, 23.0, 24.5],
+        "recommended": [18, 18.2, 18.3, 18.2, 18.0, 17.8]
+      }
+    },
+    "Ludhiana": {
+      "groundwaterLevel": "Overexploited",
+      "currentDepth": 25,
+      "recommendations": [
+        {
+          "crop": "Maize",
+          "profitScore": 74,
+          "waterScore": 86,
+          "inputCost": 9200,
+          "mandiPrice": 2200,
+          "waterRequirement": "Medium",
+          "expectedProfit": 29000,
+          "scheme": "Punjab Crop Diversification"
+        },
+        {
+          "crop": "Soybean",
+          "profitScore": 70,
+          "waterScore": 82,
+          "inputCost": 8000,
+          "mandiPrice": 4600,
+          "waterRequirement": "Low",
+          "expectedProfit": 27000,
+          "scheme": "PM-KISAN"
+        },
+        {
+          "crop": "Paddy (Rice)",
+          "profitScore": 90,
+          "waterScore": 12,
+          "inputCost": 15000,
+          "mandiPrice": 2300,
+          "waterRequirement": "Very High",
+          "expectedProfit": 42000,
+          "scheme": null
+        }
+      ],
+      "projection": {
+        "years": [2026, 2027, 2028, 2029, 2030, 2031],
+        "currentCrop": [25, 27.0, 29.2, 31.5, 34.0, 36.8],
+        "recommended": [25, 25.5, 25.8, 25.7, 25.4, 25.0]
+      }
+    },
+    "Hisar": {
+      "groundwaterLevel": "Critical",
+      "currentDepth": 20,
+      "recommendations": [
+        {
+          "crop": "Bajra (Pearl Millet)",
+          "profitScore": 76,
+          "waterScore": 90,
+          "inputCost": 8000,
+          "mandiPrice": 2500,
+          "waterRequirement": "Low",
+          "expectedProfit": 31000,
+          "scheme": "Mera Pani Meri Virasat"
+        },
+        {
+          "crop": "Arhar (Pigeon Pea)",
+          "profitScore": 68,
+          "waterScore": 85,
+          "inputCost": 9500,
+          "mandiPrice": 7000,
+          "waterRequirement": "Low",
+          "expectedProfit": 25000,
+          "scheme": null
+        },
+        {
+          "crop": "Paddy (Rice)",
+          "profitScore": 86,
+          "waterScore": 18,
+          "inputCost": 14200,
+          "mandiPrice": 2300,
+          "waterRequirement": "Very High",
+          "expectedProfit": 39000,
+          "scheme": null
+        }
+      ],
+      "projection": {
+        "years": [2026, 2027, 2028, 2029, 2030, 2031],
+        "currentCrop": [20, 21.5, 23.1, 24.9, 26.8, 28.9],
+        "recommended": [20, 20.3, 20.5, 20.4, 20.2, 19.9]
+      }
+    }
+  }

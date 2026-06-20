@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Karnal", "state": "Haryana", "lat": 29.6857, "lng": 76.9905 },
+    { "id": 2, "name": "Sangrur", "state": "Punjab", "lat": 30.2331, "lng": 75.8441 },
+    { "id": 3, "name": "Jaipur", "state": "Rajasthan", "lat": 26.9124, "lng": 75.7873 },
+    { "id": 4, "name": "Ludhiana", "state": "Punjab", "lat": 30.9010, "lng": 75.8573 },
+    { "id": 5, "name": "Hisar", "state": "Haryana", "lat": 29.1492, "lng": 75.7217 }
+  ]
